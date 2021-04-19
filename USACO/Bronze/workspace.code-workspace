@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\learn-java"
+		},
+		{
+			"path": "..\\..\\..\\python_code\\learn-python"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
